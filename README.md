@@ -7,3 +7,7 @@ We can edit the bill as per our requirement.
 The below image shows all the feature available.
 
 ![image](https://user-images.githubusercontent.com/52596463/195842587-16a08df5-09fc-42c5-84bb-a870a6041d21.png)
+
+#Scope Of Impovement
+The above improvement I m gonna do is create a Bill application which divides the amount equally between friends and colleagues,irrespective of 
+who pays what.
